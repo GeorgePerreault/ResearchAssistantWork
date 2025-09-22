@@ -1,4 +1,5 @@
 .env
+longbench.json
 
 # Python-generated files
 __pycache__/
